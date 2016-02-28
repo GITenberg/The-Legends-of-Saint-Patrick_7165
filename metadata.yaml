@@ -1,0 +1,33 @@
+_repo: The-Legends-of-Saint-Patrick_7165
+contributor:
+  author_of_introduction:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+creator:
+  author:
+    agent_name: De Vere, Aubrey
+    aliases:
+    - Hunt, Aubrey Thomas De Vere
+    - Vere, Aubrey De
+    birthdate: 1814
+    deathdate: 1902
+    gutenberg_agent_id: '2360'
+    url: http://www.gutenberg.org/2009/agents/2360
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patrick, Saint, 373?-463?'
+- !lcc 'PR'
+title: The Legends of Saint Patrick
+url: http://www.gutenberg.org/ebooks/7165
